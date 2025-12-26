@@ -7,6 +7,14 @@ A modern, premium weather application built with Next.js 14, React, TypeScript, 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-38bdf8)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+
+## 🖼️ Demo
+
+<p align="center">
+  <img src="./Screenshot%202025-12-26%20171333.png" alt="Weather App Demo Screenshot" width="900" />
+</p>
+
+
 ## ✨ Features
 
 ### Core Functionality
